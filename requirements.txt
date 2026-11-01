@@ -1,0 +1,14 @@
+# GenAI and Agentic AI Bootcamp - Week 1. One environment for the whole week.
+# Install inside a virtual environment:  pip install -r requirements.txt
+openai==2.44.0
+google-genai==2.10.0
+anthropic==0.115.1
+python-dotenv==1.2.2
+pandas==2.3.3
+matplotlib==3.11.0
+tiktoken==0.13.0
+gradio==6.19.0
+jupyterlab==4.5.9
+ipywidgets==8.1.9
+pypdf==6.21.2
+ipykernel==7.3.0

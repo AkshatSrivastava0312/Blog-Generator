@@ -1,0 +1,38 @@
+{
+  "title": "A Practical GenAI Learning Roadmap for New Professionals",
+  "topic": "How to learn GenAI in 2026",
+  "tags": [
+    "Generative AI",
+    "AI Learning Roadmap",
+    "GenAI Projects"
+  ],
+  "image_prompt": "Create a tasteful, original landscape blog-header illustration (wide 16:9 composition) about a practical learning roadmap for generative AI. Show a young early-career professional at a clean desk, viewed slightly from behind and to the side, thoughtfully moving from study to hands-on building: an open notebook with simple abstract diagrams (no readable writing), a laptop displaying a few understated, unlabeled interface panels and connected node shapes, and small physical project cards or paper sheets arranged in a gentle left-to-right progression. Suggest machine-learning foundations, building useful applications, and career preparation through subtle visual cues: a small branching network diagram, a document stack feeding into a simple digital workspace, and a finished compact prototype represented by a neat, glowing geometric object. Keep the AI imagery grounded and human-centered—no robot heads, brains, circuit-board clichés, or sci-fi spectacle. Use balanced negative space, clear silhouettes, refined editorial art direction, and a calm, optimistic mood. Soft natural morning light from a window, delicate shadows, and a restrained palette of warm ivory, muted teal, deep navy, and a small amber accent. The scene should feel contemporary and relevant to 2026 while remaining timeless, polished, and welcoming. No text, lettering, logos, watermarks, or legible screen content.",
+  "sources": [
+    {
+      "fact": "Start with ML fundamentals, then move to LLM concepts: Google’s self-paced Crash Course includes practical exercises and a module introducing large language models.",
+      "excerpt": "Google describes the course as a practical introduction with interactive materials and exercises; its modules include an introduction to LLMs.",
+      "title": "Machine Learning | Google for Developers",
+      "url": "https://developers.google.com/machine-learning/crash-course/"
+    },
+    {
+      "fact": "Build application skills with Microsoft’s 21-lesson GenAI course, which covers concepts and includes Python and TypeScript examples; its lessons include RAG and agents.",
+      "excerpt": "The repository offers 21 lessons with concept explanations and code examples, including build exercises for RAG applications and AI agents. It also lists running models locally as an option.",
+      "title": "GitHub - microsoft/generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI",
+      "url": "https://github.com/microsoft/Generative-AI-for-beginners"
+    },
+    {
+      "fact": "For deeper LLM engineering, use Hugging Face’s free course to practice with Transformers, datasets, fine-tuning, and demos; it assumes solid Python knowledge.",
+      "excerpt": "The course is free and covers the Hugging Face ML libraries, fine-tuning models, and sharing demos; it recommends good Python knowledge.",
+      "title": "Introduction · Hugging Face",
+      "url": "https://huggingface.co/learn/llm-course/chapter1/1?fw=tf"
+    },
+    {
+      "fact": "Add a career-prep milestone by completing Google Cloud’s no-cost GenAI learning path, which awards a skill badge for a developer profile and résumé.",
+      "excerpt": "Google says the learning path covers GenAI, LLMs, responsible AI, and practical applications, and that completion earns a skill badge for a profile and résumé.",
+      "title": "The Arcade focuses on generative AI in October 23",
+      "url": "https://cloud.google.com/blog/topics/training-certifications/generative-ai-for-developers"
+    }
+  ],
+  "text_model": "gpt-6-luna",
+  "image_model": "gpt-image-2.5-flare"
+}
